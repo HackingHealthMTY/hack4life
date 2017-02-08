@@ -3672,6 +3672,10 @@ h2 {
 	color: #B72331;
 }
 
+.eventinfo {
+	background-color: #f2f2f2;
+}
+
 .day-number{
 	font-size: 45px;
 	font-weight: bolder;
